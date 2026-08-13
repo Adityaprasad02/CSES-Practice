@@ -48,6 +48,7 @@ int solve ( int crrIdx , int prevVal ){
              for(int i = 1 ; i<=m ; i++ ){
                 
                  arrs = (arrs +  solve( crrIdx +1 , i ))%mod ; 
+                 
              }
          }else if(no>0){
                arrs =  (arrs +  solve ( crrIdx + 1 , no ))%mod ;
