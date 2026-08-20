@@ -9,6 +9,8 @@ int n ;
 vector<int> arr ;
 
 // # MEMOIZTION LOGIC DID SELF
+// Time:  O(n × S)
+// Space: O(n × S)
 
 
 bool solve ( int idx  , int target  ){
@@ -49,6 +51,11 @@ int main () {
      }
 
     //----------------MY METHOD SELF ACC 1ST TIME USING HASHMAP-------------------------------// 
+
+    // Worst case:
+
+            // Time:  O(n × S)
+            // Space: O(S)
 
    //   unordered_map<int,int> mp ; 
 
