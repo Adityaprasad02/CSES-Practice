@@ -1,0 +1,1 @@
+{"name":"Local: Money-sums","url":"c:\\Users\\shubh\\OneDrive\\Desktop\\CSES\\DP\\Money-sums.cpp","tests":[{"id":1787231467210,"input":"4\n4 2 5 2","output":"9\n2 4 5 6 7 8 9 11 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shubh\\OneDrive\\Desktop\\CSES\\DP\\Money-sums.cpp","group":"local","local":true}
